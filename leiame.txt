@@ -1,0 +1,9 @@
+	Antes de rodar o arquivo, é necessário instalar o allegro 5, para tanto siga o tutorial disponibilizado no site oficial do allegro 5 : https://wiki.allegro.cc/index.php?title=Getting_Started#Requirements. 
+
+	Após a instalação do allegro, devemos compilar o fonte que está no main.c e depois disso devemos apenas rodar o main.exe que será gerado.
+
+Se não der certo o usuário deve colocar o arquivo allegro-5.0.10-monolith-mt.dll (encontrado na pasta do allegro após instalado) no C:\Windows\System32 para o correto funcionamento do exe.
+
+	As fontes e imagens já se encontram na pasta do jogo, além do txt com a highscore.
+
+Gabriel Felipe Paiva Pereira
